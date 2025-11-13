@@ -49,7 +49,6 @@ This information may be provided directly by you when registering or interacting
 ## How We Use Your Data
 
 We use your personal information for the following purposes:
-- To register and manage your account.
 - To contact you regarding inquiries, support requests, or service updates.
 - To improve the functionality and user experience of our App.
 - To provide location-based features (if you choose to share your location).
