@@ -67,15 +67,9 @@ Your location data is collected **only if you choose to grant permission**. It i
 
 We take reasonable technical and organizational measures to safeguard your personal data against unauthorized access, alteration, disclosure, or destruction.
 
-However, please note that no method of electronic storage or transmission over the Internet is completely secure, and we cannot guarantee absolute security.
 
 ---
 
-## Third-Party Links
-
-Our App may contain links to third-party websites or services. We are not responsible for the content, security, or privacy practices of those websites. We encourage you to read their respective privacy policies when visiting them.
-
----
 
 ## Data Retention
 
@@ -90,7 +84,7 @@ You have the right to:
 - Request correction or deletion of your data.
 - Withdraw consent for optional data collection (such as location) at any time.
 
-To exercise these rights, please contact us at **info@arabiandyar.sa**.
+To exercise these rights, please contact us at **info@aldyar.sa**.
 
 ---
 
